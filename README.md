@@ -2,6 +2,7 @@
 
 ## Use Example
 should be add functions.php in your theme like below code
+
 `include_once(get_stylesheet_directory() . 'path/*.php');`
 
 ## recent posts by category
